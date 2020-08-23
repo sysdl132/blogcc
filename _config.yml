@@ -1,9 +1,9 @@
-title: My blog
+title: Blog by system32
 author:
   name: sysdl132
   email: 3412913920@qq.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Welcome to my blog.If there's a new things happen(like the version updates or something other),it will publish at here.
+  Welcome to my blog.Powered by GH pages and minima
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
