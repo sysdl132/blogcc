@@ -1,5 +1,7 @@
 ---
 layout: post
+author:
+- system32
 ---
 # Here's a notice:
 Recently I had a forum.visit: https://sl132.flarum.cloud
