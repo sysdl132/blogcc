@@ -2,6 +2,8 @@
 layout: post
 title: "About my personal issue tracker"
 categories: misc
+author:
+- system32
 ---
 
 # About
