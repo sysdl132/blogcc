@@ -1,5 +1,15 @@
-# site actions monitor
+# Don't fork this. Please fork [github:jekyll/minima](https://github.com/jekyll/minima)
+
+## site actions monitor
+[![all](https://img.shields.io/github/checks-status/sysdl132/blogcc/master?label=All%20checks)](https://github.com/sysdl132/blogcc/)
 [![Build Status](https://travis-ci.com/sysdl132/blogcc.svg?branch=master)](https://travis-ci.com/sysdl132/blogcc)
+[![system](https://img.shields.io/github/repo-size/sysdl132/blogcc)](https://sysdl132.github.io/blogcc)
+[![issue](https://img.shields.io/github/issues-raw/sysdl132/blogcc)](https://sysdl132.github.io/blogcc)
+[![stars](https://img.shields.io/github/stars/sysdl132/blogcc)](https://github.com/sysdl132/blogcc)
+
+<details>
+  <summary>click to show system manual</summary>
+
 # minima
 
 *Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.
@@ -320,3 +330,4 @@ To test your theme, run `script/server` (or `bundle exec jekyll serve`) and open
 ## License
 
 The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+</details>
