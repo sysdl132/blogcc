@@ -1,9 +1,10 @@
 # site history
 ## about post
-``2020.07.20`` site ready!Forked from jekyll/minima
+``2020.07.20`` site ready
+
 ``2020.07.25`` set up blog posts
-## bigger construction
-nothing to show
+
+``2021.05.12`` updated from upstream
 
 -------------------------
 
