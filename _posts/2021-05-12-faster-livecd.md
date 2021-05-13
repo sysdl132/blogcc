@@ -4,6 +4,15 @@ layout: post
 
 # Faster livecd 🚀
 
+## graphical generate
+For those who prefer to use a graphical user interface there is a package called mylivegtk which provides a graphical front-end to the mylivecd command. Search in Synaptic for mylivegtk to install the application and it's dependencies. Once installed you will find it on the main menu under ``Archiving->MyLiveGTK``
+
+![img](http://pclinuxoshelp.com/images/f/fc/MyLiveGTK.png)
+
+Set the parameters and click 'go' to generate.
+
+## CLI generate
+
 - Download [pclinuxos KDE or others in this page](https://www.pclinuxos.com/?page_id=180)
 - boot livecd and run "install me"
 - install OS to disk or virtual machine
@@ -67,3 +76,9 @@ Created 'name.iso' (1819,279,360 bytes) in 00:04:46
 ```
 
 - The file should in this directory. "name.iso"
+
+# Extended remix
+
+- calamares installer
+
+still writing ...
